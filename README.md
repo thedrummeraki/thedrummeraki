@@ -13,7 +13,7 @@ Most of my time is spent making my life and others' easier. I build for the long
 
 ### 💬 About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedrummeraki&hide=java)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedrummeraki&hide=java)](https://github.com/thedrummeraki?tab=repositories)
 
 [![Aki's github stats](https://github-readme-stats.vercel.app/api?username=thedrummeraki&count_private=true&show_icons=true)](https://github.com/thedrummeraki)
 
