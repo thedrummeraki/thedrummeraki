@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-My name is Akinyele Cafe-Febrissy. I'm a Software Developer <b>[@Shopify](https://github.com/Shopify)</b>.
+My name is Akinyele Cafe-Febrissy. I'm a Software Developer <b>[@Shopify 🛍️](https://github.com/Shopify)</b>.
 
 Most of my time is spent making my life and others' easier. I build for the long term and thrive on collaboration and trust.
 
