@@ -7,7 +7,7 @@ Most of my time is spent making my life and others' easier. I build for the long
 ### 🔭 I'm working on...
 
 - 🎮 A space for watching and sharing Nintendo Switch clips ([misete.io](https://github.com/Misete-io))
-- 🎥 A simple and easy to use anime streaming website ([youranime.moe](https://github.com/thedrummeraki/tanoshimu))
+- 🎥 A simple and easy to use anime streaming website ([youranime.moe](https://www.youranime.moe))
 - 🤖 A cool Github bot on Discord to simplify my workflow (closed source).
 - 🚧 Revamping my portfolio ([stg.akinyele.ca](https://github.com/thedrummeraki/react-portfolio/tree/new-face))
 
