@@ -6,16 +6,16 @@ Most of my time is spent making my life and others' easier. I build for the long
 
 ### 🔭 I'm working on...
 
+- 🎥 Don't know where to watch anime? Go on [youranime.moe](https://www.youranime.moe) to find out!
 - 🎮 A space for watching and sharing Nintendo Switch clips ([misete.io](https://github.com/Misete-io))
-- 🎥 A simple and easy to use anime streaming website ([youranime.moe](https://www.youranime.moe))
 - 🤖 A cool Github bot on Discord to simplify my workflow (closed source).
-- 🚧 Revamping my portfolio ([akinyele.ca](https://github.com/thedrummeraki/react-portfolio))
+- 🚧 Constantly revamping my portfolio ([akinyele.ca](https://github.com/thedrummeraki/react-portfolio))
 
-### 💬 About me
+<!-- ### 💬 About me -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedrummeraki&hide=java)](https://github.com/thedrummeraki?tab=repositories)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedrummeraki&hide=java)](https://github.com/thedrummeraki?tab=repositories) -->
 
-[![Aki's github stats](https://github-readme-stats.vercel.app/api?username=thedrummeraki&count_private=true&show_icons=true)](https://github.com/thedrummeraki)
+<!-- [![Aki's github stats](https://github-readme-stats.vercel.app/api?username=thedrummeraki&count_private=true&show_icons=true)](https://github.com/thedrummeraki) -->
 
 ### 📫 How to reach me?
 
