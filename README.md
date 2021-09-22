@@ -6,7 +6,7 @@ Most of my time is spent making my life and others' easier. I build for the long
 
 ### 🔭 I'm working on...
 
-- A [Mangadex](https://mangadex.org) gem that interacts with Mangadex's [v5 API](https://api.mangadex.org). [Check it out](https://github.com/thedrummeraki/mangadex)!
+- 💎 A [Mangadex](https://mangadex.org) gem that interacts with Mangadex's [v5 API](https://api.mangadex.org). [Check it out](https://github.com/thedrummeraki/mangadex)!
 - 🎥 Don't know where to watch anime? Go on [youranime.moe](https://www.youranime.moe) to find out!
 - 🚧 [Work in Progress] A simple Mangadex Client! Node.js and React. More details on [here](https://github.com/thedrummeraki/mangadex-client).
 - 🎮 A space for watching and sharing Nintendo Switch clips ([misete.io](https://github.com/Misete-io))
