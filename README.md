@@ -7,7 +7,7 @@ Most of my time is spent making my life and others' easier. I build for the long
 ### 🔭 I'm working on...
 
 - 💎 A [Mangadex](https://mangadex.org) gem that interacts with their latest API. [Check it out](https://github.com/thedrummeraki/mangadex)!
-- 🎥 Don't know where to watch anime? Go on [youranime.moe](https://www.akinyele.ca/projects/youranime-accounts) to find out!
+- 🎥 Don't know where to watch anime? Go on [youranime.moe](https://www.akinyele.ca/projects/youranime) to find out!
 - 🚧 [Work in Progress] A simple Mangadex Client! React Native. More details on [here](https://www.akinyele.ca/projects/dexify-mobile).
 - 🎮 A space for watching and sharing Nintendo Switch clips ([misete.io](https://github.com/Misete-io))
 - 🤖 A cool Github bot on Discord to simplify my workflow (closed source).
