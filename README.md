@@ -11,7 +11,7 @@ Most of my time is spent making my life and others' easier. I build for the long
 - 🚧 [Work in Progress] A simple Mangadex Client! React Native. More details on [here](https://www.akinyele.ca/projects/dexify-mobile).
 - 🎮 A space for watching and sharing Nintendo Switch clips ([misete.io](https://github.com/Misete-io))
 - 🤖 A cool Github bot on Discord to simplify my workflow (closed source).
-- 🚧 Constantly revamping my portfolio ([akinyele.ca](https://www.akinyele.ca))
+- 🎨 Constantly revamping my portfolio ([akinyele.ca](https://www.akinyele.ca))
 
 <!-- ### 💬 About me -->
 
